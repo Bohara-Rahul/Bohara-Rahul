@@ -1,7 +1,8 @@
 Hi 👋 My name is Rahul Bohara
 =============================
 
-*   ✉️  You can contact me at [rahul.bohara2016@gmail.com](mailto:rahul.bohara2016@gmail.com)### Skills 
+*   ✉️  You can contact me at [rahul.bohara2016@gmail.com](mailto:rahul.bohara2016@gmail.com)
+*   ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
